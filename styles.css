@@ -3,3 +3,8 @@
   background-size: cover;
   background-position: center;
 }
+@media all and (max-width: 480px){
+  img{
+    width: 100%;
+   }
+  }
